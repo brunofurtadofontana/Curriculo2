@@ -6,9 +6,9 @@
 
 # Sobre mim
 
--👨‍🏫 Atualmente estou trabalhando como professor de programção WEB, Banco de dados, Mobile e desktop..
--👓 Estou me aperfeiçoando em javascript, NODE.JS - REACT JS.
--🌐 Sempre procuro ajudar a comunidade de tecnologia da informação.
+-👨‍🏫 Atualmente estou trabalhando como professor de programção WEB, Banco de dados, Mobile e desktop..<br>
+-👓 Estou me aperfeiçoando em javascript, NODE.JS - REACT JS.<br>
+-🌐 Sempre procuro ajudar a comunidade de tecnologia da informação.<br>
 
 #SKILLS
 
