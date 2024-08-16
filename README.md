@@ -19,7 +19,7 @@
 
 #Contato
 <div>
-  <a href="instagram.com/br.fontana" >
+  <a href="https://instagram.com/br.fontana" >
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:bruno@levelupsistemas.com.br">
